@@ -8,7 +8,7 @@ async fn main() {
         pos += 0.5;
 
         
-        draw_circle(screen_width()/2.0 + pos, screen_height()/2.0, 15.0, BLUE);
+        draw_circle(screen_width()/2.0 + pos, screen_height()/2.0, 7.0, BLUE);
         
 
         next_frame().await
