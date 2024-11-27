@@ -1,0 +1,7 @@
+[package]
+name = "rusttst"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+comfy = "0.4.0"
